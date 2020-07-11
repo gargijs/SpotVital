@@ -11,7 +11,7 @@
 </p>
 
 ## What is SpotVital?
-* An app📲📲📲 that let you share🎭 Real time locations.🧿🧿
+* An app📲📲📲 that let you share🎭 Real time locations🧿🧿
 
 
 # How to📲 Download SpotVital?
