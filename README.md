@@ -16,7 +16,7 @@
 
 # How to📲 Download SpotVital?
 
-* Visit 👀 https://play.google.com/store/apps/details?id=com.spotvital.spotvital
+* Visit  https://play.google.com/store/apps/details?id=com.spotvital.spotvital
 
 
 
